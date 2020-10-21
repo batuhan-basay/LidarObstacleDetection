@@ -1,8 +1,8 @@
 # Lidar Obstacle Detection
 
 ```diff
- The main goal of the project is to filter, segment, and cluster  
- real point cloud data to detect obstacles in a driving environment.
+ The main goal of <hr>the project is to filter, <hr>segment, and cluster  
+ real point cloud data to <hr>detect obstacles in a driving environment.
 ```
 ![ezgif com-video-to-gif](https://user-images.githubusercontent.com/30608533/65621434-65750100-dfcc-11e9-864f-b9a93de1b16e.gif)
 
