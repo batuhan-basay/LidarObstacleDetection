@@ -19,9 +19,9 @@
  Functions were implemented for segmentation and clustering. The pipeline details are as the following.
 ```
 
-
+<hr>
 ## PipeLine 
-Following are the steps for the pipeline
+Following are the steps for<hr> the pipeline
 - Read a PCD file.
 - Filter the raw LIDAR data 
 - Segment the filtered data to identify road and objects
